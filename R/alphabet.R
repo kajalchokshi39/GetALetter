@@ -1,5 +1,6 @@
 alphabet <-
 function(i) {
-    a <- LETTTERS
+    a <- LETTERS
     sample(a,1,replace=TRUE)
-  }
+}
+
