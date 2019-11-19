@@ -1,11 +1,11 @@
 \name{alphabet}
 \alias{alphabet}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{ alpha
 %%  ~~function to do ... ~~
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+letter
 }
 \usage{
 alphabet(i)
@@ -13,9 +13,7 @@ alphabet(i)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{i}{
-%%     ~~Describe \code{i} here~~
-}
-}
+return a letter 
 \details{
 %%  ~~ If necessary, more details than the description above ~~
 }
